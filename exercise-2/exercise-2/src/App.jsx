@@ -1,9 +1,10 @@
-import UserCard from './UserCard';
+// App.jsx
+import Blog from './Blog';
 
 const App = () => {
   return (
     <div>
-      <UserCard />
+      <Blog />
     </div>
   );
 };
